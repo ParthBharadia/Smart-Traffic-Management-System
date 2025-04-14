@@ -89,3 +89,10 @@ Visit: `http://127.0.0.1:5000` in your browser.
 - 🔲 Export analytics report as PDF
 
 ---
+## Screenshots
+
+![1](https://github.com/user-attachments/assets/5d275dd4-5ee7-4010-8746-da4398e19e25)
+
+![2](https://github.com/user-attachments/assets/1a700b07-c90b-42a8-9861-bac7e6f441dd)
+
+
