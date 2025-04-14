@@ -1,6 +1,3 @@
-# Smart-Traffic-Management-System
-
-
 # 🚦 Smart Traffic Management System
 
 A Flask-based web application for intelligent traffic video analysis and visualization. The system simulates object detection using a YOLO-style model (MobileNet SSD), processes video frames to detect vehicles, and provides 3D-like SVG visualizations and interactive stats.
